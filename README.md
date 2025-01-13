@@ -10,6 +10,6 @@ This assignment was completed during FIT2099, object oriented design and impleme
 - The implementation is located under src/game
 
 ### Screenshots
-[Game Start](Screenshot 1)
+[Game Start](Screenshot 1.png)
 
 
